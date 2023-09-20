@@ -1,0 +1,8 @@
+langchain
+openai
+unstructured
+pinecone-client
+tiktoken
+pdfminer.six
+scikit-learn
+lark
